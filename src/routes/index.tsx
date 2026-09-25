@@ -238,7 +238,7 @@ function Home() {
                   alt="Chairman AGM battery technical illustration with four feature callouts"
                   width={909}
                   height={836}
-                  className="relative z-10 w-full"
+                  className="relative z-10 w-full mt-[60px] -mb-[60px]"
                 />
 
                 <span
